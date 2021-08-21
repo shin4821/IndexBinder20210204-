@@ -4,8 +4,8 @@
 * 기간: 2020.11.13 ~ 2020.11.25, 2021.01.03 ~ 2021.01.21
 * 사용언어: C
 * 사용기술 
- * 직접 LinkedList Library, BinaryTree Library를 만들어서 사용.
- * API
+  - 직접 LinkedList Library, BinaryTree Library를 만들어서 사용.
+  - API
 
 프로젝트 상세내용
 =============
